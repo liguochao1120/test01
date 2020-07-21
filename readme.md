@@ -71,7 +71,8 @@
 
 ### 把代码 pull到本地
  - 'git init'
- - 'git pull [地址] master'
+ - 'git pull [地址] master'  
+ - 'git clone [地址]' master 不推荐使用
 
 # 流行框架
 
