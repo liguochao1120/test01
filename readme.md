@@ -10,4 +10,8 @@
   + 配置用户名:'git config --global user.name "lgc"'
   + 配置邮箱:'git config --global user.email "xxx@qq.com'
 ## 把代码存储到.git仓库中
-
+- 1,把代码放到仓库的门口
+  + 'git add ./readme.md'
+- 2,把代码放到仓库的房间中去
+  + 'git commit -m "这是对这次添加东西的说明"' 
+### 这是完成另一个功能后的版本
