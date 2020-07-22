@@ -73,6 +73,7 @@
  - 'git init'
  - 'git pull [地址] master'  
  - 'git clone [地址]' master 不推荐使用
+### 使用push 和 pull时,先pull再push
 
 # 流行框架
 
@@ -82,6 +83,9 @@
  - 生成公钥和私钥
      + 'ssh-keygen' -t rsa -C "740227782@qq.com"
      + 'git push [ssh地址] master'
+### 将远程地址修改为一个变量,方便使用，
+ - 'git remote add origin [地址]'
+ - 'git push origin master'
 
 
 
