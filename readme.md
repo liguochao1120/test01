@@ -74,6 +74,8 @@
  - 'git pull [地址] master'  
  - 'git clone [地址]' master 不推荐使用
 ### 使用push 和 pull时,先pull再push
+   - 示例:'git push [地址] -u master'
+   - 当我们在push时,加上 -u参数,那么在下一次push时我们只需要执行git push就能上传我们的代码 (加上 -u 之后,git会把当前的分支与远程的指定的分支进行关联)
 
 # 流行框架
 
